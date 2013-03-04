@@ -17,11 +17,10 @@
         }
     ],
     "require": {
-        "doctrine/mongodb-odm-bundle": "3.0.*@dev",
-        "doctrine/mongodb-odm": "1.0.*@dev",
+        "doctrine/mongodb-odm-bundle": "v3.0.0-BETA3",
         "sonata-project/admin-bundle": "2.2.*@dev",
         "sonata-project/block-bundle": "2.2.*@dev",
-        "symfony/symfony": ">=2.2,<2.3",
+        "symfony/symfony": ">=2.1",
         "knplabs/knp-menu-bundle": "1.1.x-dev"
     },
     "autoload": {
